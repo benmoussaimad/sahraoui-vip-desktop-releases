@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "Placeholder until the first CI release is published from pos-cafe-frontend.",
+  "pub_date": "2026-01-01T00:00:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.0/Sahraoui-VIP_0.1.0_x64-setup.exe",
+      "signature": ""
+    },
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.0/Sahraoui-VIP_0.1.0_x64-setup.exe",
+      "signature": ""
+    }
+  }
+}
