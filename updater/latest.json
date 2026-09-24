@@ -2,11 +2,11 @@
   "notes": "Sahraoui VIP desktop v0.1.3",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.3/Sahraoui%20VIP_0.1.3_x64-setup.exe",
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.3/Sahraoui.VIP_0.1.3_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMWhURHptdG5STXdtUzlxOWdnQ2ZBSEZDTU1mTmgzbWNoRkhYcXdQU1NaanFGZ0xVdVozOXpFYmZiV2wyTklFaXVNYkRlMmpld0tHczdKQ3JLMnI3NUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjU5NTI4CWZpbGU6U2FocmFvdWkgVklQXzAuMS4zX3g2NC1zZXR1cC5leGUKSGVUUzkwUVg1aHE5dW5xcEJ4b1VPd3lVNlFXeWRWajNvNWtEaWJWWTlqUXFwSTRIN21RaG05amR1UjI4Wk1QbWxBd1E1SnhQbHdOMlFiL201ak1YQkE9PQo="
     },
     "windows-x86_64-nsis": {
-      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.3/Sahraoui%20VIP_0.1.3_x64-setup.exe",
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.3/Sahraoui.VIP_0.1.3_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMWhURHptdG5STXdtUzlxOWdnQ2ZBSEZDTU1mTmgzbWNoRkhYcXdQU1NaanFGZ0xVdVozOXpFYmZiV2wyTklFaXVNYkRlMmpld0tHczdKQ3JLMnI3NUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjU5NTI4CWZpbGU6U2FocmFvdWkgVklQXzAuMS4zX3g2NC1zZXR1cC5leGUKSGVUUzkwUVg1aHE5dW5xcEJ4b1VPd3lVNlFXeWRWajNvNWtEaWJWWTlqUXFwSTRIN21RaG05amR1UjI4Wk1QbWxBd1E1SnhQbHdOMlFiL201ak1YQkE9PQo="
     }
   },
