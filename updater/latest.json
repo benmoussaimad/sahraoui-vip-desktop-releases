@@ -1,15 +1,15 @@
 {
+  "notes": "Sahraoui VIP desktop v0.1.7",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.6/Sahraoui.VIP_0.1.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMW5SQTk3WXB2bWJqdWN5WXc2bnNCa2lNSVFQRzROeE0rMzRSMzBDOWIzYUMzMjNKUEZJRWNHQk1DVThXS1B1ckYyczcxOGRsWmhLRm5vQk1PcXRrcGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY4MDM3CWZpbGU6U2FocmFvdWkgVklQXzAuMS42X3g2NC1zZXR1cC5leGUKUWJXb1JFQUV5dzRWbGJIOWtKQStSaWxTWld4YkZSbG5ONFJpQnhBMzY3MjFMRStyU0RmeThib0JRU0xaa2pkeXVqOEhva3ZBa0d2U1l6YktnbDB0QkE9PQo="
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.7/Sahraoui.VIP_0.1.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMXJOMC9COUp6QlBwbkhaVDNjNEgxMXZUY2U5bmpQSTVGYjNpOERjUnVHSUdKaUFlMCs2SHVtSGRmVkJMZXpaU2lSQWI4OVFNUUJMVzJ1dmpNQ1V2cmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk5MTI5CWZpbGU6U2FocmFvdWkgVklQXzAuMS43X3g2NC1zZXR1cC5leGUKdkQySUFtWXYxd3JFdHJtbFVaaUkwRms5ckZ5aGNNN2U3bmFxR2dKVnlRK2grOHh0NUludFRBSE0zdllqNUlWMnkzZ2dleDBpWTNtZkhmZU1BaHovREE9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.6/Sahraoui.VIP_0.1.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMW5SQTk3WXB2bWJqdWN5WXc2bnNCa2lNSVFQRzROeE0rMzRSMzBDOWIzYUMzMjNKUEZJRWNHQk1DVThXS1B1ckYyczcxOGRsWmhLRm5vQk1PcXRrcGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjY4MDM3CWZpbGU6U2FocmFvdWkgVklQXzAuMS42X3g2NC1zZXR1cC5leGUKUWJXb1JFQUV5dzRWbGJIOWtKQStSaWxTWld4YkZSbG5ONFJpQnhBMzY3MjFMRStyU0RmeThib0JRU0xaa2pkeXVqOEhva3ZBa0d2U1l6YktnbDB0QkE9PQo="
+      "url": "https://github.com/benmoussaimad/sahraoui-vip-desktop-releases/releases/download/v0.1.7/Sahraoui.VIP_0.1.7_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTDFydHIvVU5PMXJOMC9COUp6QlBwbkhaVDNjNEgxMXZUY2U5bmpQSTVGYjNpOERjUnVHSUdKaUFlMCs2SHVtSGRmVkJMZXpaU2lSQWI4OVFNUUJMVzJ1dmpNQ1V2cmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk5MTI5CWZpbGU6U2FocmFvdWkgVklQXzAuMS43X3g2NC1zZXR1cC5leGUKdkQySUFtWXYxd3JFdHJtbFVaaUkwRms5ckZ5aGNNN2U3bmFxR2dKVnlRK2grOHh0NUludFRBSE0zdllqNUlWMnkzZ2dleDBpWTNtZkhmZU1BaHovREE9PQo="
     }
   },
-  "version": "0.1.6",
-  "notes": "Sahraoui VIP desktop v0.1.6",
-  "pub_date": "2026-09-24T16:40:54.161Z"
+  "version": "0.1.7",
+  "pub_date": "2026-09-25T01:19:02.652Z"
 }
